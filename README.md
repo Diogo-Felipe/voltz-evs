@@ -50,7 +50,8 @@ Nosso objetivo:
 
 Atualmente o repositório cobre (ou cobrirá):
 
-- Voltz EVS 2021
+- Voltz EVS (Single-sided suspension, motor Yuma-YM)
+- Voltz EVS Work (double side , QS Motors)
 
 
 ---
