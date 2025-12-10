@@ -50,14 +50,8 @@ Nosso objetivo:
 
 Atualmente o repositório cobre (ou cobrirá):
 
-- Voltz EV1 Sport  
-- Voltz EVS  
-- Voltz EVS Work  
-- Voltz EVS City  
-- Voltz EVS Mini  
-- Voltz EVS Delivery  
+- Voltz EVS 2021
 
-*(Adapte conforme desejar)*
 
 ---
 
