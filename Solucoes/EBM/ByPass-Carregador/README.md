@@ -4,8 +4,8 @@
 # ByPass do Carregador para EVS
 
 <p align="center">
-  <a href="https://youtube.com/watch?v=x8ZLiWTlVi8" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.ytimg.com/vi/x8ZLiWTlVi8/maxresdefault.jpg">
+  <a href="https://github.com/togwar/voltz-evs/raw/main/Solucoes/EBM/ByPass-Carregador/foto1.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/togwar/voltz-evs/raw/main/Solucoes/EBM/ByPass-Carregador/foto1.jpg">
   </a>
 </p>
 
@@ -24,8 +24,7 @@ Ele emite a comunicação de autorização de carregamento entre outras funçõe
 ## ⏱️ Momentos importantes do vídeo
 
 
-![Descrição da imagem](https://github.com/togwar/voltz-evs/raw/main/Solucoes/EBM/ByPass-Carregador/foto1.jpg)
 
-![Descrição do vídeo](https://github.com/togwar/voltz-evs/raw/main/Solucoes/EBM/ByPass-Carregador/video1.mp4)
+![video](https://github.com/togwar/voltz-evs/raw/main/Solucoes/EBM/ByPass-Carregador/video1.mp4)
 
 
