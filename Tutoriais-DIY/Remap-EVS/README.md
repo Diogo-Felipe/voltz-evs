@@ -12,7 +12,9 @@
 
 ## 🌟 Objetivo / O que você vai aprender
 
-Descreva aqui, em 1–3 parágrafos, o que o tutorial cobre — o problema que resolve, o que será construído ou demonstrado, e para quem se destina.
+Perca sua garantia da VOLTZ com estilo!
+
+Esse é o terceiro episódio de uma mini serie que pretendo fazer ensinando a como modificar a moto de ponta a ponta
 
 ## 🧰 Pré-requisitos
 
@@ -20,16 +22,10 @@ Liste o que é necessário para seguir o tutorial. Exemplo:
 
 - Sistema operacional (ex: Windows, Linux, macOS)  
 - Versão da linguagem/plataforma (ex: Node.js version X, Python 3.Y)  
-- Dependências (ex: bibliotecas, pacotes, ferramentas)  
-- Conta em serviços externos, se for o caso  
-- Outros: editor de código, terminal, etc.
+- <a href="https://shopee.com.br/Cabo-Db9-Adaptador-Usb-2.0-Serial-Rs232-Conversor-9-Pinos-i.404162541.10814284463" target="_blank" rel="noopener noreferrer">Cabo RS232</a><br>
 
-## 🚀 Passo a passo / Instruções
 
-0:00 - intro
-[Ir direto para o segundo 19 do vídeo](https://www.youtube.com/watch?v=k8r8NSqz_7c&t=19s)
-
-<h2>⏱️ Momentos importantes do vídeo</h2>
+## ⏱️ Momentos importantes do vídeo
 
 <ul>
   <li>
