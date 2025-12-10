@@ -33,10 +33,10 @@ Liste o que é necessário para seguir o tutorial. Exemplo:
 
 <ul>
   <li>
-    <strong>00:00 – Intro</strong><br>
+    <strong>
     <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=0s" target="_blank" rel="noopener noreferrer">
-      Abrir no início
-    </a>
+      00:00 – Intro</strong>
+    </a><br>
   </li>
 
   <li>
@@ -47,80 +47,80 @@ Liste o que é necessário para seguir o tutorial. Exemplo:
   </li>
 
   <li>
-    <strong>00:45 – Abrindo a moto</strong><br>
+    <strong>
     <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=45s" target="_blank" rel="noopener noreferrer">
-      Abrir no segundo 45
-    </a>
+      00:45 – Abrindo a moto</strong>
+    </a><br>
   </li>
 
   <li>
-    <strong>02:05 – Instalação</strong><br>
+    <strong>
     <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=125s" target="_blank" rel="noopener noreferrer">
-      Abrir no segundo 125
-    </a>
+      02:05 – Instalação</strong>
+    </a><br>
   </li>
 
   <li>
-    <strong>03:35 – Bateria / Voltagem</strong><br>
+    <strong>
     <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=215s" target="_blank" rel="noopener noreferrer">
-      Abrir no segundo 215
-    </a>
+      03:35 – Bateria / Voltagem</strong>
+    </a><br>
   </li>
 
   <li>
-    <strong>04:30 – Ângulo do sensor Hall</strong><br>
+    <strong>
     <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=270s" target="_blank" rel="noopener noreferrer">
-      Abrir no segundo 270
-    </a>
+      04:30 – Ângulo do sensor Hall</strong>
+    </a><br>
   </li>
 
   <li>
-    <strong>05:10 – Curva de aceleração</strong><br>
+    <strong>
     <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=310s" target="_blank" rel="noopener noreferrer">
-      Abrir no segundo 310
-    </a>
+      05:10 – Curva de aceleração</strong>
+    </a><br>
   </li>
 
   <li>
-    <strong>05:30 – Modos de condução</strong><br>
+    <strong>
     <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=330s" target="_blank" rel="noopener noreferrer">
-      Abrir no segundo 330
-    </a>
+      05:30 – Modos de condução</strong>
+    </a><br>
   </li>
 
   <li>
-    <strong>06:17 – RPM</strong><br>
+    <strong>
     <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=377s" target="_blank" rel="noopener noreferrer">
-      Abrir no segundo 377
-    </a>
+      06:17 – RPM</strong>
+    </a><br>
   </li>
 
   <li>
-    <strong>09:25 – Regenerativo em ação</strong><br>
+    <strong>
     <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=565s" target="_blank" rel="noopener noreferrer">
-      Abrir no segundo 565
-    </a>
+      09:25 – Regenerativo em ação</strong>
+    </a><br>
   </li>
 
   <li>
-    <strong>10:13 – Outras funções</strong><br>
+    <strong>
     <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=613s" target="_blank" rel="noopener noreferrer">
-      Abrir no segundo 613
-    </a>
+      10:13 – Outras funções</strong>
+    </a><br>
   </li>
 
   <li>
-    <strong>10:59 – Relatório de erros</strong><br>
+    <strong>
     <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=659s" target="_blank" rel="noopener noreferrer">
-      Abrir no segundo 659
-    </a>
+      10:59 – Relatório de erros</strong>
+    </a><br>
   </li>
 
   <li>
-    <strong>11:16 – Despedidas</strong><br>
+    <strong>
     <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=676s" target="_blank" rel="noopener noreferrer">
-      Abrir no segundo 676
-    </a>
+      11:16 – Despedidas</strong>
+    </a><br>
   </li>
 </ul>
 
