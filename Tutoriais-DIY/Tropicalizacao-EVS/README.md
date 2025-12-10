@@ -1,7 +1,7 @@
 
 
 **EM CONSTRUÇÃO**  
-# Como Resetar a Bateria da EVS
+# Tropicalização da EVS
 
 <p align="center">
   <a href="https://youtube.com/watch?v=L5VHc5klR04" target="_blank" rel="noopener noreferrer">
@@ -23,9 +23,9 @@
 
 ## 🌟 Objetivo / O que você vai aprender
 
-- Modificação EVS Parte 1: Peças e Ferramentas - https://youtube.com/watch?v=L5VHc5klR04
-- Modificação EVS Parte 2: Troca da BMS - https://youtube.com/watch?v=tKhqxlfBPuA
-- Modificação EVS Parte 3: Montagem do Kit - https://youtube.com/watch?v=dftcn9fOm48
+- Modificação EVS Parte 1: Peças e Ferramentas
+- Modificação EVS Parte 2: Troca da BMS
+- Modificação EVS Parte 3: Montagem do Kit
 
 
 ## 🧰 Pré-requisitos
