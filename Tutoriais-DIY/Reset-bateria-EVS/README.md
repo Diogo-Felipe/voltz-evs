@@ -4,32 +4,27 @@
 # Upgrade na VOLTZ EVS
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/k8r8NSqz_7c/hqdefault.jpg">
+  <a href="youtube.com/watch?v=x8ZLiWTlVi8&feature=youtu.be" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.ytimg.com/vi/x8ZLiWTlVi8/maxresdefault.jpg">
   </a>
 </p>
 
 
 ## 🌟 Objetivo / O que você vai aprender
 
-Como Reprogramar a controladora original da VOLTZ
+Realizar o Reset na Bateria com a BMS original VOLTZ
 
 
 ## 🧰 Pré-requisitos
 
-- Computador com sistema operacional Windows.
-- Conhecimento básico em informática e uso do computador.
-- Aplicativos disponibilizados neste repositório.
-- <a href="https://shopee.com.br/Cabo-Db9-Adaptador-Usb-2.0-Serial-Rs232-Conversor-9-Pinos-i.404162541.10814284463" target="_blank" rel="noopener noreferrer">Shopee.com.br - Cabo RS232</a><br>
-- ou compre pessoalmente o cabo RS232 na santa efigenia ( rua vitoria, 24 ) - newportcom
-- jump de fios para ligar no RS232 e conector da moto.
+- Fio ou Clips para realizar o Jump.
 
 ## ⏱️ Momentos importantes do vídeo
 
 <ul>
   <li>
     <strong>
-    <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=0s" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.youtube.com/watch?v=x8ZLiWTlVi8&t=0s" target="_blank" rel="noopener noreferrer">
       00:00 – Intro</strong>
     </a><br>
   </li>
