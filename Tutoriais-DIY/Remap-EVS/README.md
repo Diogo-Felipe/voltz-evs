@@ -29,18 +29,101 @@ Liste o que é necessário para seguir o tutorial. Exemplo:
 0:00 - intro
 [Ir direto para o segundo 19 do vídeo](https://www.youtube.com/watch?v=k8r8NSqz_7c&t=19s)
 
-0:19 - ferramentas
-0:45 - abrindo a moto
-2:05 - instalação
-3:35 - bateria voltagem
-4:30 - angulo hall
-5:10 - curva aceleração
-5:30 - modos condução
-6:17 - RPM
-9:25 - regenerativo em ação
-10:13 - outras funçoes
-10:59 - relatorio de erros
-11:16 - despedidas!
+<h2>⏱️ Momentos importantes do vídeo</h2>
+
+<ul>
+  <li>
+    <strong>00:00 – Intro</strong><br>
+    <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=0s" target="_blank" rel="noopener noreferrer">
+      Abrir no início
+    </a>
+  </li>
+
+  <li>
+    <strong>00:19 – Ferramentas</strong><br>
+    <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=19s" target="_blank" rel="noopener noreferrer">
+      Abrir no segundo 19
+    </a>
+  </li>
+
+  <li>
+    <strong>00:45 – Abrindo a moto</strong><br>
+    <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=45s" target="_blank" rel="noopener noreferrer">
+      Abrir no segundo 45
+    </a>
+  </li>
+
+  <li>
+    <strong>02:05 – Instalação</strong><br>
+    <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=125s" target="_blank" rel="noopener noreferrer">
+      Abrir no segundo 125
+    </a>
+  </li>
+
+  <li>
+    <strong>03:35 – Bateria / Voltagem</strong><br>
+    <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=215s" target="_blank" rel="noopener noreferrer">
+      Abrir no segundo 215
+    </a>
+  </li>
+
+  <li>
+    <strong>04:30 – Ângulo do sensor Hall</strong><br>
+    <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=270s" target="_blank" rel="noopener noreferrer">
+      Abrir no segundo 270
+    </a>
+  </li>
+
+  <li>
+    <strong>05:10 – Curva de aceleração</strong><br>
+    <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=310s" target="_blank" rel="noopener noreferrer">
+      Abrir no segundo 310
+    </a>
+  </li>
+
+  <li>
+    <strong>05:30 – Modos de condução</strong><br>
+    <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=330s" target="_blank" rel="noopener noreferrer">
+      Abrir no segundo 330
+    </a>
+  </li>
+
+  <li>
+    <strong>06:17 – RPM</strong><br>
+    <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=377s" target="_blank" rel="noopener noreferrer">
+      Abrir no segundo 377
+    </a>
+  </li>
+
+  <li>
+    <strong>09:25 – Regenerativo em ação</strong><br>
+    <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=565s" target="_blank" rel="noopener noreferrer">
+      Abrir no segundo 565
+    </a>
+  </li>
+
+  <li>
+    <strong>10:13 – Outras funções</strong><br>
+    <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=613s" target="_blank" rel="noopener noreferrer">
+      Abrir no segundo 613
+    </a>
+  </li>
+
+  <li>
+    <strong>10:59 – Relatório de erros</strong><br>
+    <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=659s" target="_blank" rel="noopener noreferrer">
+      Abrir no segundo 659
+    </a>
+  </li>
+
+  <li>
+    <strong>11:16 – Despedidas</strong><br>
+    <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=676s" target="_blank" rel="noopener noreferrer">
+      Abrir no segundo 676
+    </a>
+  </li>
+</ul>
+
 
 Descreva os passos necessários para reproduzir o resultado do vídeo. Use blocos de código para comandos, exemplos de configuração, etc.  
 Exemplo:
