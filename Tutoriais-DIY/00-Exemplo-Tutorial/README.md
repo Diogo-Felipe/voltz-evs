@@ -1,6 +1,3 @@
-
-
-**EM CONSTRUÇÃO**  
 # Aqui fica o título do seu tutorial.
 
 - Titulo do video 1
@@ -81,3 +78,4 @@ Ferramentas:
   </li>
 </ul>
 
+**EM CONSTRUÇÃO**  
