@@ -16,7 +16,7 @@ Aqui iremos centralizar sugestões e configurações da controladora APT para a 
 - Softwares para acesso a controladora
 - compreensão que sua moto existe limites e do risco de configurar algo ERRADO poderá inutilizar o seu equipamento por completo.
 
-## ⏱️ Momentos importantes do vídeo
+## 📝 Dicas importantes
 
 1. Ajuste do "Limite de velocidade da marcha ré" (Backward speed[rpm])
 	- Alteração do valor de -150 para **-43 em CURRENT ROT / Backward speed[rpm]**.
