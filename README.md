@@ -18,10 +18,9 @@ O objetivo é centralizar conhecimento, facilitar atualizações e apoiar entusi
 1. [Sobre o Projeto](#-sobre-o-projeto)
 2. [Modelos Compatíveis](#-modelos-de-motos-compatíveis)
 3. [Conteúdos Disponíveis](#-conteúdos-disponíveis)
-4. [Instalação e Uso](#-instalação-e-uso)
-5. [Tutoriais](#-tutoriais)
-6. [Firmwares e Software](#-firmwares-e-software)
-7. [Contribuindo](#-contribuindo)
+4. [Tutoriais](#-tutoriais-de-ajuste-e-manutenção) 
+5. [Firmwares e Software](#-firmwares-e-software)
+6. [Manutenção DIY - Faça você mesmo!](#-manutenção-DIY-Faça-você-mesmo!)
 
 
 ---
@@ -66,7 +65,7 @@ Atualmente o repositório cobre (verifique compatibilidade):
 - Ajustes da controladora ATP
 - Atualização de firmware (caso aplicável e permitido)
 
-### 🔌 Firmwares
+### 🔌 Firmwares e Softwares
 > **Atenção:** Apenas firmwares autorizados / permitidos por lei podem ser distribuídos neste repositório.
 
 ---
