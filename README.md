@@ -20,7 +20,7 @@ O objetivo é centralizar conhecimento, facilitar atualizações e apoiar entusi
 3. [Conteúdos Disponíveis](#-conteúdos-disponíveis)
 4. [Tutoriais](#-tutoriais-de-ajuste-e-manutenção) 
 5. [Firmwares e Softwares](#-firmwares-e-softwares)
-6. [Manutenção DIY - Faça você mesmo](#-manutenção-diy-faça-você-mesmo)
+6. [Manutenção DIY - Faça você mesmo](#-manutenção-diy---faça-você-mesmo)
 
 
 ---
