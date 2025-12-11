@@ -19,7 +19,7 @@ Aqui iremos centralizar sugestões e configurações da controladora APT para a 
 ## ⏱️ Momentos importantes do vídeo
 
 1. Ajuste do "Limite de velocidade da marcha ré" (Backward speed[rpm])
-	- Alteração do valor de -150 para -43 em CURRENT ROT / Backward speed[rpm].
+	- Alteração do valor de -150 para **-43 em CURRENT ROT / Backward speed[rpm]**.
 		> Velocidade máxima real (5km/h) muito mais segura e confortável para manobras
 		> Inalterado a força e a potência da "marcha ré".
 		> Essa configuração não oferece risco para a controladora.
@@ -29,9 +29,9 @@ Aqui iremos centralizar sugestões e configurações da controladora APT para a 
 ---
 
 2. Ajuste fino e mais linear do acelerador com relação ao Torque (Throttle [V])
-	- Alteração do valor de 2,3999 para 3,3200 em PEDAL FUNCTION / Throttle Bst[V].
-	- Alteração do valor de 3,4999 para 4,1000 em PEDAL FUNCTION / Throttle high[V].
-	- Alteração do valor de 2,1994 para 3,2800 em PEDAL FUNCTION / Throttle mid[V].
+	- Alteração do valor de 2,3999 para **3,3200 em PEDAL FUNCTION / Throttle Bst[V]**.
+	- Alteração do valor de 3,4999 para **4,1000 em PEDAL FUNCTION / Throttle high[V]**.
+	- Alteração do valor de 2,1994 para **3,2800 em PEDAL FUNCTION / Throttle mid[V]**.
 		> Ajuste fino de como o acelerador fica mais responsivo para o controle da moto em acelerações, agora o poder fica na mão do condutor.
 		> Inalterado a força e a potência da "marcha ré".
 		> Essa configuração não oferece risco para a controladora.
