@@ -77,7 +77,9 @@ Atualmente o repositório cobre (verifique compatibilidade):
 > Lembre-se do que você comprou o veículo e sua proposta, ele é uma máquina "limitada", **não será apenas um número que irá mudar na configuração que dará super poderes à sua moto**.
 > 
 > **PRUDÊNCIA E CONSCIÊNCIA** são fundamentais para uma customização.
->
+
+---
+
 ## 🤝 Prestadores e Referências.
 > Segue uma relação de proficionais ou entusiastas que desenvolvem soluções ou conteúdo sobre mobilídade eletrica que recomendo (ordem alfabética, máximo 2 por região):
 - CanalDoCuriosoX - DDD 81 - https://www.youtube.com/@CanalDoCuriosoX
