@@ -9,7 +9,7 @@ Firmwares específicas para as motos EVS e EVS Work, **Originais do fabricante A
 
 ## VERSÃO VOLTZ EVS
 
-### ⏳ A1705_V10000_EVS_70_YM-T7.dat (EM DESENVOLVIMENTO)
+⏳ A1705_V10000_EVS_70_YM-T7.dat (EM DESENVOLVIMENTO)
 
 - Controladora Original da EVS.
 - 1 Bateria Voltz EVS ou mais.
@@ -32,7 +32,7 @@ Firmwares específicas para as motos EVS e EVS Work, **Originais do fabricante A
 3. O parâmetro **Max idc pk [A]** é equivalente ao limite de 130A.
 4. **ATENÇÃO:** EXCLUSIVA para quem possui **DUAS BATERIAS**.
 
-### ⏳ A1705_V10000_EVS_IA_130_YM-T7.dat (EM DESENVOLVIMENTO)
+⏳ A1705_V10000_EVS_IA_130_YM-T7.dat (EM DESENVOLVIMENTO)
 
 - Controladora Original da EVS.
 - 2 Baterias Voltz EVS ou mais.
@@ -48,7 +48,7 @@ Firmwares específicas para as motos EVS e EVS Work, **Originais do fabricante A
 
 ## VERSÃO VOLTZ EVS WORK
 
-### ⏳ A1705_V10000_EVSW_70_YM-T7.dat (EM DESENVOLVIMENTO)
+⏳ A1705_V10000_EVSW_70_YM-T7.dat (EM DESENVOLVIMENTO)
 
 - Controladora Original da EVS.
 - 1 Bateria Voltz EVS ou mais.
@@ -73,7 +73,7 @@ Firmwares específicas para as motos EVS e EVS Work, **Originais do fabricante A
 4. **ATENÇÃO:** EXCLUSIVA para quem possui **DUAS BATERIAS**.
 
 
-### ⏳ A1705_V10000_EVSW_IA_130_YM-T7.dat (EM DESENVOLVIMENTO)
+⏳ A1705_V10000_EVSW_IA_130_YM-T7.dat (EM DESENVOLVIMENTO)
 
 - Controladora Original da EVS.
 - 2 Baterias Voltz EVS ou mais.
