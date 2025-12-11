@@ -5,6 +5,8 @@
 
 Firmwares específicas para as motos EVS e EVS Work, **Originais do fabricante APT**, e desenvolvidas especificamente para as motos VOLTZ.
 
+---
+
 ## VERSÃO VOLTZ EVS
 
 ### ⏳ A1705_V10000_EVS_70_YM-T7.dat (EM DESENVOLVIMENTO)
@@ -28,7 +30,7 @@ Firmwares específicas para as motos EVS e EVS Work, **Originais do fabricante A
 1. Todas as configurações originais da moto e do fabricante.
 2. Destrava TBOX, que passa ter a função de apenas colocar a hora e data no painel, não mais fica refém dele da moto não andar caso ele falhe.
 3. O parâmetro **Max idc pk [A]** é equivalente ao limite de 130A.
-4. **ATENÇÃO** EXCLUSIVA para quem possui **DUAS BATERIAS**.
+4. **ATENÇÃO:** EXCLUSIVA para quem possui **DUAS BATERIAS**.
 
 ### ⏳ A1705_V10000_EVS_IA_130_YM-T7.dat (EM DESENVOLVIMENTO)
 
@@ -40,7 +42,7 @@ Firmwares específicas para as motos EVS e EVS Work, **Originais do fabricante A
 1. Todas as configurações originais da moto e do fabricante.
 2. Destrava TBOX, que passa ter a função de apenas colocar a hora e data no painel, não mais fica refém dele da moto não andar caso ele falhe.
 3. Função extra: Com a moto ligada, mantenha o freio (P) e o acelerador totalmente pressionados por 10 segundos - a moto irá reduzir sua potência para o limite do parâmetro **Max idc pk [A]** 70A automáticamente.
-4. **ATENÇÃO** EXCLUSIVA para quem possui **DUAS BATERIAS**.
+4. **ATENÇÃO:** EXCLUSIVA para quem possui **DUAS BATERIAS**.
 
 ---
 
@@ -68,7 +70,7 @@ Firmwares específicas para as motos EVS e EVS Work, **Originais do fabricante A
 1. Todas as configurações originais da moto e do fabricante.
 2. Destrava TBOX, que passa ter a função de apenas colocar a hora e data no painel, não mais fica refém dele da moto não andar caso ele falhe.
 3. O parâmetro **Max idc pk [A]** é equivalente ao limite de 130A.
-4. **ATENÇÃO** EXCLUSIVA para quem possui **DUAS BATERIAS**.
+4. **ATENÇÃO:** EXCLUSIVA para quem possui **DUAS BATERIAS**.
 
 
 ### ⏳ A1705_V10000_EVSW_IA_130_YM-T7.dat (EM DESENVOLVIMENTO)
@@ -81,7 +83,7 @@ Firmwares específicas para as motos EVS e EVS Work, **Originais do fabricante A
 1. Todas as configurações originais da moto e do fabricante.
 2. Destrava TBOX, que passa ter a função de apenas colocar a hora e data no painel, não mais fica refém dele da moto não andar caso ele falhe.
 3. Função extra: Com a moto ligada, mantenha o freio (P) e o acelerador totalmente pressionados por 10 segundos - a moto irá reduzir sua potência para o limite do parâmetro **Max idc pk [A]** 70A automáticamente.
-4. **ATENÇÃO** EXCLUSIVA para quem possui **DUAS BATERIAS**.
+4. **ATENÇÃO:** EXCLUSIVA para quem possui **DUAS BATERIAS**.
 
 
 
