@@ -1,6 +1,3 @@
-
-
-**EM CONSTRUÇÃO**  
 # Sugestões de configurações para controladora APT
 
 ## 🌟 Objetivo / O que você vai aprender
@@ -54,7 +51,7 @@ Aqui iremos centralizar sugestões e configurações da controladora APT para a 
 ![Descrição da imagem](https://github.com/togwar/voltz-evs/raw/main/Tutoriais-DIY/Sugestoes-Remap-EVS/4.png)
 
 	
-- Para ativá-la, com a moto andando em uma velocidade superiror a 30 km/h, **mantenha fixo, preciso e estável o acelerador**, mantendo a moto acelerando na posição que deseja, e precione o botão de ré ("R" na mão esquerda).
+- Para ativá-la, com a moto andando em uma **velocidade superiror** a 30 km/h, **mantenha fixo, preciso e estável o acelerador**, mantendo a moto acelerando na posição que deseja, e precione o botão de ré ("R" na mão esquerda).
 - Você deverá sentir uma sutil acelerada, e pode soltar o acelerador que ela irá manter, até que você acelere ela novamente ou encoste no freio (até aparecer o "P" no painel).
 - **Atenção**: Caso salve o controle de cruzeiro em um modo inferior, exemplo 90% do ECO, e se você alterar o modo de condução, a moto continuará com o controle de cruzeiro ativo, porém ganhará a força extra do modo Standard. O inverso também se aplica.
 
@@ -64,3 +61,5 @@ Aqui iremos centralizar sugestões e configurações da controladora APT para a 
 	> - Não habilite essa função para ficar andando sem as mãos na moto, **exceto se você trabalha em um círco** ou é profissional de entreterimento. 🤣
 
 ---
+
+**EM CONSTRUÇÃO**  
