@@ -7,7 +7,7 @@
 ![Issues](https://img.shields.io/github/issues/togwar/voltz-evs)
 ![Stars](https://img.shields.io/github/stars/togwar/voltz-evs?style=social)
 
-Repositório oficial mantido pela comunidade para **compartilhar software, firmwares, documentação técnica e tutoriais** relacionados aos veículos elétricos da **VOLTZ Motors**.
+Repositório oficial mantido pela comunidade para **compartilhar software, firmwares, documentação técnica, soluções de terceiros e tutoriais** relacionados aos veículos elétricos, incluíndo **VOLTZ Motors**, pois é minha atual moto.
 
 O objetivo é centralizar conhecimento, facilitar atualizações e apoiar entusiastas, mecânicos e desenvolvedores que desejam compreender e aprimorar suas motos elétricas.
 
@@ -29,28 +29,28 @@ O objetivo é centralizar conhecimento, facilitar atualizações e apoiar entusi
 
 ## 🚀 Sobre o Projeto
 
-Este repositório foi criado com o propósito de ser uma **fonte aberta e colaborativa** de informações para proprietários e apaixonados pelos veículos elétricos da VOLTZ.
+Este repositório foi criado com o propósito de ser uma **fonte aberta, GRATUÍTA e colaborativa** de informações para proprietários e apaixonados pelos veículos elétricos.
 
 Aqui você encontrará:
 
-- Documentação técnica das motos;
+- Documentação técnica das motos e componentes;
 - Guias de configuração;
 - Tutoriais para manutenção e ajustes;
 - Firmwares (quando permitidos legalmente);
 - Ferramentas e utilitários para diagnóstico.
 
 Nosso objetivo:  
-> **Ajudar a comunidade a manter viva a paixão pelos veículos elétricos da VOLTZ e apoiar futuros entusiastas.**
+> **Ajudar a comunidade a manter viva a paixão pelos veículos elétricos e apoiar futuros entusiastas.**
 
 ---
 
-## 🛵 Modelos Compatíveis
+## 🛵 Modelos de motos Compatíveis
 
-Atualmente o repositório cobre (ou cobrirá):
+Atualmente o repositório cobre (verifique compatibilidade):
 
 - Voltz EVS (Single-sided suspension, motor Yuma-YM)
 - Voltz EVS Work (double side , QS Motors)
-
+- Voltz EV1 Sport
 
 ---
 
@@ -62,7 +62,7 @@ Atualmente o repositório cobre (ou cobrirá):
 - Ferramentas de firmware
 
 ### 🔧 Tutoriais de Ajuste e Manutenção
-- Configuração de BMS (incluindo JK-BD6A20S8P)
+- Configuração de BMS (JK)
 - Balanceamento e cuidados com baterias
 - Ajustes da controladora ATP
 - Atualização de firmware (caso aplicável e permitido)
@@ -72,8 +72,8 @@ Atualmente o repositório cobre (ou cobrirá):
 
 ---
 
-## 🛠 Instalação e Uso
+## 🛠 Manutenção DIY - Faça você mesmo!
+> **Atenção:** Nosso objetivo é prover o meio, a execução e responsabilidade é integralmente SUA!
+> Provemos os arquivos e estruturas para o conhecimento e execução final, porém se não domina essa atividade recomendamos buscar alguns especialistas no assunto que mais promovem conteúdo e informação na rede, tais como:
+- Well Bike Elétrica https://www.youtube.com/@wellbikeeletricahnd
 
-### Clonando o repositório
-```bash
-git clone https://github.com/togwar/voltz-evs.git
