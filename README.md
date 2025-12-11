@@ -74,7 +74,8 @@ Atualmente o repositório cobre (verifique compatibilidade):
 > **Atenção:** Nosso objetivo é prover o meio, a execução e responsabilidade é integralmente SUA!
 > Provemos os arquivos e estruturas para o conhecimento e execução final, porém **se não domina essa atividade recomendamos buscar alguns especialistas no assunto** que mais promovem conteúdo e informação na rede.
 > Saiba, um simples clique errado, um fio no lugar errado, ou um paramentro inadequado poderá inutilizar por completo seu componente, ou até causar danos maiores, como por exemplo incêndios no caso das baterias.
-> Lembre-se do que você comprou o veículo e sua proposta, ele é uma máquina "limitada", **não será apenas um número que irá mudar na configuração que dará super poderes à sua moto.
+> Lembre-se do que você comprou o veículo e sua proposta, ele é uma máquina "limitada", **não será apenas um número que irá mudar na configuração que dará super poderes à sua moto**.
+> 
 > **PRUDÊNCIA E CONSCIÊNCIA** são fundamentais para uma customização.
 >
 ## 🤝 Prestadores e Referências.
