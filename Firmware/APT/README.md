@@ -42,7 +42,7 @@ Firmwares específicas para as motos EVS e EVS Work, **Originais do fabricante A
 3. Função extra: Com a moto ligada, mantenha o freio (P) e o acelerador totalmente pressionados por 10 segundos - a moto irá reduzir sua potência para o limite do parâmetro **Max idc pk [A]** 70A automáticamente.
 4. **ATENÇÃO** EXCLUSIVA para quem possui **DUAS BATERIAS**.
 
---
+---
 
 ## VERSÃO VOLTZ EVS WORK
 
