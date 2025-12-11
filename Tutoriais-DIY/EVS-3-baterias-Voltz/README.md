@@ -16,12 +16,13 @@ Como foi feito o arranjo para adaptar 3 baterias da Voltz na EVS.
 Trata-se da primeira versão funcional.
 Em breve teremos a versão final publicada aqui.
 
+
 ## 🧰 Pré-requisitos
 
 - Controladora Original da EVS.
 - 3 Baterias Voltz EVS.
 - BMS JK-BD6A20S8P.
-- 
+
 
 ## ⏱️ Momentos importantes do vídeo
 
@@ -69,3 +70,16 @@ Em breve teremos a versão final publicada aqui.
   </li>
 </ul>
 
+
+## 📷 Imagens complementares
+
+
+![Descrição da imagem](01.jpg)
+
+![Descrição da imagem](https://github.com/togwar/voltz-evs/raw/main/Tutoriais-DIY/EVS-3-baterias-Voltz/02.jpg)
+
+![Descrição da imagem](03.jpg)
+
+![Descrição da imagem](04.jpg)
+
+![Descrição da imagem](05.jpg)
