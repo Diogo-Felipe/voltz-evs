@@ -1,3 +1,15 @@
+Nesse post você **pode salvar o arquivo README.md e edita-lo em seu computador** ou dispositivo, de acordo com o seu objetivo ou video que queira publicar, isso é, o "seu conteúdo" que julga interessante.
+
+Nesse arquivo contem toda a demonstração das funções ja preenchidas no arquivo, logo, o trabalho será apenas compreender o video... obter o codigo do video... e subistitui-lo nos links do tutorial.
+
+Talvez agregar conteudos como links externos para produtos ou ferramentas... caso não preciso disso, basta remover.
+
+Imagens de destaque, que você pode anexar ao conteúdo também é possível.
+
+Por fim, links direto a momentos importantes no video do youtube que esta se referenciado.
+
+---
+
 # Aqui fica o título do seu tutorial.
 
 - Titulo do video 1
