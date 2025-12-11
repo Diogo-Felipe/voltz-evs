@@ -72,6 +72,16 @@ Atualmente o repositório cobre (verifique compatibilidade):
 
 ## 🛠 Manutenção DIY - Faça você mesmo
 > **Atenção:** Nosso objetivo é prover o meio, a execução e responsabilidade é integralmente SUA!
-> Provemos os arquivos e estruturas para o conhecimento e execução final, porém se não domina essa atividade recomendamos buscar alguns especialistas no assunto que mais promovem conteúdo e informação na rede, tais como:
-- Well Bike Elétrica https://www.youtube.com/@wellbikeeletricahnd
+> Provemos os arquivos e estruturas para o conhecimento e execução final, porém **se não domina essa atividade recomendamos buscar alguns especialistas no assunto** que mais promovem conteúdo e informação na rede.
+> Saiba, um simples clique errado, um fio no lugar errado, ou um paramentro inadequado poderá inutilizar por completo seu componente, ou até causar danos maiores, como por exemplo incêndios no caso das baterias.
+> Lembre-se do que você comprou o veículo e sua proposta, ele é uma máquina "limitada", **não será apenas um número que irá mudar na configuração que dará super poderes à sua moto.
+> **PRUDÊNCIA E CONSCIÊNCIA** são fundamentais para uma customização.
+>
+## 🤝 Prestadores e referências.
+> Segue uma relação de proficionais ou entusiastas que desenvolvem soluções ou conteúdo sobre mobilídade eletrica que recomendo (ordem alfabética, máximo 2 por região):
+- EBM Eletronics - DDD 51 - https://www.youtube.com/@ebmelectronic7865
+- Euller Labs - DDD 34 - https://www.youtube.com/@eullerm
+- Joch - DDD 11 - https://www.youtube.com/@CanalJoch
+- LetraJota - DDD 11 - https://www.youtube.com/@letrajota
+- Well Bike Elétrica - DDD 79 - https://www.youtube.com/@wellbikeeletricahnd
 
