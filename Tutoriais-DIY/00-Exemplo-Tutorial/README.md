@@ -5,22 +5,22 @@
 
 - Titulo do video 1
 <p align="center">
-  <a href="https://youtube.com/watch?v=L5VHc5klR04" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.ytimg.com/vi/L5VHc5klR04/maxresdefault.jpg">
+  <a href="https://youtube.com/watch?v=wDchsz8nmbo" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.ytimg.com/vi/wDchsz8nmbo/maxresdefault.jpg">
   </a>
 </p>
 
 - Titulo do video 2
 <p align="center">
-  <a href="https://youtube.com/watch?v=tKhqxlfBPuA" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.ytimg.com/vi/tKhqxlfBPuA/maxresdefault.jpg">
+  <a href="https://youtube.com/watch?v=krDWc30PAGg" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.ytimg.com/vi/krDWc30PAGg/maxresdefault.jpg">
   </a>
 </p>
 
 - Titulo do video 3
 <p align="center">
-  <a href="https://youtube.com/watch?v=dftcn9fOm48" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.ytimg.com/vi/dftcn9fOm48/maxresdefault.jpg">
+  <a href="https://youtube.com/watch?v=a3ICNMQW7Ok" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.ytimg.com/vi/a3ICNMQW7Ok/maxresdefault.jpg">
   </a>
 </p>
 
@@ -53,29 +53,30 @@ Ferramentas:
 <ul>
   <li>
     <strong>
-    <a href="https://www.youtube.com/watch?v=L5VHc5klR04&t=0s" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.youtube.com/watch?v=wDchsz8nmbo&t=0s" target="_blank" rel="noopener noreferrer">
       00:00 – Intro</strong>
     </a><br>
   </li>
 
   <li>
     <strong>
-    <a href="https://www.youtube.com/watch?v=L5VHc5klR04&t=83s" target="_blank" rel="noopener noreferrer">
-      01:23 – Identificando o Problema</strong>
+    <a href="https://www.youtube.com/watch?v=wDchsz8nmbo&t=35s" target="_blank" rel="noopener noreferrer">
+      00:35 – Ceu estrelado</strong>
     </a><br>
   </li>
 
   <li>
     <strong>
-    <a href="https://www.youtube.com/watch?v=L5VHc5klR04&t=123s" target="_blank" rel="noopener noreferrer">
-      02:05 – Como Resetar</strong>
+    <a href="https://www.youtube.com/watch?v=krDWc30PAGg&t=28s" target="_blank" rel="noopener noreferrer">
+      00:28 – Esmeralda</strong>
     </a><br>
   </li>
+</ul>
 
   <li>
     <strong>
-    <a href="https://www.youtube.com/watch?v=k8r8NSqz_7c&t=338s" target="_blank" rel="noopener noreferrer">
-      05:38 – Despedidas</strong>
+    <a href="https://www.youtube.com/watch?v=a3ICNMQW7Ok&t=21s" target="_blank" rel="noopener noreferrer">
+      00:21 – Koala</strong>
     </a><br>
   </li>
 </ul>
