@@ -20,9 +20,10 @@ Aqui iremos centralizar sugestões e configurações da controladora APT para a 
 
 1. Ajuste do "**Limite de velocidade da marcha ré**" (Backward speed[rpm])
 	- Alteração do valor de -150 para **-43 em CURRENT ROT / Backward speed[rpm]**.
-		> Velocidade máxima real (5km/h) muito mais segura e confortável para manobras.
-		> Inalterado a força e a potência da "marcha ré".
+		> Velocidade máxima real (5km/h) muito mais segura e confortável para manobras.  
+		> Inalterado a força e a potência da "marcha ré".  
 		> Essa configuração não oferece risco para a controladora.
+
 		
 ![Descrição da imagem](https://github.com/togwar/voltz-evs/raw/main/Tutoriais-DIY/Sugestoes-Remap-EVS/1.png)
 
