@@ -16,14 +16,13 @@ O objetivo é centralizar conhecimento, facilitar atualizações e apoiar entusi
 ## 📚 Sumário
 
 1. [Sobre o Projeto](#-sobre-o-projeto)
-2. [Modelos Compatíveis](#-modelos-compatíveis)
+2. [Modelos Compatíveis](#-modelos-de-motos-compatíveis)
 3. [Conteúdos Disponíveis](#-conteúdos-disponíveis)
 4. [Instalação e Uso](#-instalação-e-uso)
 5. [Tutoriais](#-tutoriais)
 6. [Firmwares e Software](#-firmwares-e-software)
 7. [Contribuindo](#-contribuindo)
-8. [Aviso Legal](#-aviso-legal)
-9. [Licença](#-licença)
+
 
 ---
 
