@@ -79,6 +79,7 @@ Atualmente o repositório cobre (verifique compatibilidade):
 >
 ## 🤝 Prestadores e Referências.
 > Segue uma relação de proficionais ou entusiastas que desenvolvem soluções ou conteúdo sobre mobilídade eletrica que recomendo (ordem alfabética, máximo 2 por região):
+- CanalDoCuriosoX - DDD 81 - https://www.youtube.com/@CanalDoCuriosoX
 - EBM Eletronics - DDD 51 - https://www.youtube.com/@ebmelectronic7865
 - Euller Labs - DDD 34 - https://www.youtube.com/@eullerm
 - Joch - DDD 11 - https://www.youtube.com/@CanalJoch
