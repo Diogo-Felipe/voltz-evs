@@ -76,12 +76,12 @@ Está muito calor, na sua região a controladora costuma esquentar e travar e te
 - Com **ou Sem TBOX**.
 - Software: <strong><a href="https://github.com/togwar/voltz-evs/blob/main/Softwares/APT/MCU%20Upgrade%20System/Firmware%20Updater%20V1.5.2.exe" target="_blank" rel="noopener noreferrer">Firmware Updater V1.5.2.exe</strong>
 
-**ATENÇÃO:** EXCLUSIVA para quem possui **DUAS BATERIAS**.
-**ATENÇÃO:** EXCLUSIVA para não desativou o "P" ao precionar o freio.
-1. Todas as configurações originais da moto e do fabricante.
-2. Destrava TBOX, que passa ter a função de apenas colocar a hora e data no painel, não mais fica refém dele da moto não andar caso ele falhe.
+**ATENÇÃO:** EXCLUSIVA para quem possui **DUAS BATERIAS**.  
+**ATENÇÃO:** EXCLUSIVA para não desativou o "P" ao precionar o freio.  
+1. Todas as configurações originais da moto e do fabricante.  
+2. Destrava TBOX, que passa ter a função de apenas colocar a hora e data no painel, não mais fica refém dele da moto não andar caso ele falhe.  
 3. Função Extra (Downgrade):  
-**Com a Moto desligada**
+**Com a Moto desligada:**  
 	>⁠ 1. Pressione o freio e não solte;  
 	> 2. Ligue a moto;  
     > 3. após 3 segundos, acelere ao máximo e mantém acelerando;  
