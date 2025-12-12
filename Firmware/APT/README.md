@@ -3,7 +3,7 @@
 
 ## 🌟 Objetivo / O que você vai encontrar
 
-Firmwares específicas para as motos EVS e EVS Work, **Originais do fabricante APT**, e desenvolvidas especificamente para as motos VOLTZ.
+Firmwares específicas para as motos EVS ou EVS Work, **Originais do fabricante APT**, e desenvolvidas especificamente para as motos VOLTZ.
 
 ---
 
