@@ -57,7 +57,7 @@ Talvez tenha que manerar no acelerador em regiões extremamente quentes caso ten
 4. 
 
 ### ⚙️ A1705_V10000_EVS_IA_130_YM-T9.dat (DOWNLOAD EM BREVE)
-**Download ficará disponível após atingirmos 30 videos tutoriais.**
+**Download ficará disponível após atingirmos 40 videos tutoriais.**
 
 **DESCRIÇÃO**: A firmware sem limitações e convergente! O poder máximo ou autonomia, você poderá escolher.  
 
