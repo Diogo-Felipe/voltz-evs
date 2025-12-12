@@ -2,7 +2,7 @@
 
 Compre sua alça pronta através do link:
 https://shopee.com.br/product/607821839/22091668149/
-
+**Direto com o inventor
 
 - ALÇA da BATERIA quebrou? Aqui está a Solução
 <p align="center">
