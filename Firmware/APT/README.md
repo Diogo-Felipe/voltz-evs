@@ -80,14 +80,16 @@ Está muito calor, na sua região a controladora costuma esquentar e travar e te
 **ATENÇÃO:** EXCLUSIVA para não desativou o "P" ao precionar o freio.
 1. Todas as configurações originais da moto e do fabricante.
 2. Destrava TBOX, que passa ter a função de apenas colocar a hora e data no painel, não mais fica refém dele da moto não andar caso ele falhe.
-3. Função Extra:  
-Com a Moto desligada
-	>⁠ 1. Pressiona freio e não solte;  
+3. Função Extra (Downgrade):  
+**Com a Moto desligada**
+	>⁠ 1. Pressione o freio e não solte;  
 	> 2. Ligue a moto;  
     > 3. após 3 segundos, acelere ao máximo e mantém acelerando;  
     > 4. Mantenha o freio e acelerador por mais 10 segundos;  
 	> 5. Solte o freio e o acelerador;
 A Controladora irá compreender esse comando e irá reduzir sua potência para o limite do parâmetro **Max idc pk [A]** 70A automáticamente. (Semelhante a EVS original com apenas uma Bateria).  
+
+Para voltar à potência máxima, basta desligar e ligar a moto normalmente.  
 
 
 ---
